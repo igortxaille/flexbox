@@ -1,0 +1,23 @@
+.containerUL{
+    flex-direction: column;
+    list-style-type: none;
+}
+.item{
+    flex-wrap: wrap;
+    align-self: baseline ;
+}
+.item2{
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.item3{
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.item4{
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+button{
+    background-color: #FFFFFF;
+}
